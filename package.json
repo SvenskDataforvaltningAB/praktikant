@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "@types/node": "^16.11.7",
-    "vue": "^2.6.14"
-  }
-}
